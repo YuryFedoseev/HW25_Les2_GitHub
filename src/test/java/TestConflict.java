@@ -1,3 +1,3 @@
 public class TestConflict {
-    //кто будут делать?
+    //Тут кусок кода
 }
